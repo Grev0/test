@@ -1,2 +1,4 @@
 toto je prvni test
 
+toto je druhy test
+
